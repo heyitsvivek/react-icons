@@ -1,4 +1,4 @@
-### React Component for Icons using Inline SVG
+### REAL ICON KING
 
 React [supports](http://facebook.github.io/react/docs/tags-and-attributes.html#svg-elements) several SVG elements which means you can embed your icon code directly into a component. Inline SVG has [good browser support](http://caniuse.com/#feat=svg-html5) and by using it you can save HTTP requests, icons are still cachable and you can control them using CSS.
 
